@@ -9,3 +9,8 @@ console.disableYellowBox = true;
 StatusBar.setBarStyle('light-content', true);
 
 AppRegistry.registerComponent('Finance', () => Finance);
+
+
+
+
+/* PowerDev9512 */
